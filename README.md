@@ -113,10 +113,3 @@ A mixture of methods including canny edge detection, watershed segmentation, mor
    1. P.Pouladzadeh, S.Shirmohammadi, and R.Almaghrabi, “Measuring Calorie and Nutrition from Food Image”, IEEE Transactions on Instrumentation & Measurement, Vol.63, No.8, p.p. 1947 – 1956, August 2014.
 
    2. Parisa Pouladzadeh, Abdulsalam Yassine, and Shervin Shirmohammadi, “Foodd: An image-based food detection dataset for calorie measurement,” in InternationalConferenceonMultimediaAssistedDietaryManagement, 2015
-
-   3. Meghana M Reddy, “Calorie-estimation-from-food-images-opencv”, [Git repo](https://github.com/meghanamreddy/Calorie-estimation-from-food-images-OpenCV) , May 2016
-
-
-
-
-<a href="mailto:vinayak.sable.56@gmail.com">@vinayak</a> What do you think about these ?
