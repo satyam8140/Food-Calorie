@@ -2,7 +2,7 @@
 # Food Calories Estimation Using Image Processing
 <img src="1.jpg" alt="python" width="150" height="190" align="right">
 
-## [Vinayak Sable](https://www.linkedin.com/in/vinayak-sable-675502131) 
+## [Satyam Goyal](https://www.linkedin.com/in/satyam-goyal-4b4a751a8/) and Team
 
 + ###  Problem
  The problem can be simply stated as, given a set of food images with calibration object thumb with the food name and an unlabeled set of food images from the same group of food, identify food and estimate food volume and calories intake.
