@@ -66,18 +66,7 @@ change the directory to ```food-calories-estimation-using-Image-processing-maste
 + tflearn
 
 
-### Testing
-Google colab link for testing [click here](https://colab.research.google.com/drive/1dRVXXVfX5vQ0Re1kW_yX4zwJBNzSezoa?usp=sharing)
-for testing our model run
-```
-python demo.py
-```
 
-### Training
-Download data from above FOODD link and create forlder in repo FOODD and run
-```
-python train.py
-```
 
 ### Estimation Method:
 + #### Image Segmentation:
